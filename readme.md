@@ -13,5 +13,7 @@ I believe uniqueness is not an advantage - its a necessity.
 ## currently building
 ### [ansty](https://ansty.app)
 is an anti-social app for sharing real, unfiltered moments with the people who matter. no likes. no trends. no carefully curated feeds. just life as it happens.
+### [PresenceFlow](https://github.com/k1114linux/presenceflow-application)
+is a lightweight desktop tool for creating and managing Discord Rich Presence profiles
 
 ---
