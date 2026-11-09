@@ -1,19 +1,28 @@
-# k1114linux (makk)
-Full-stack developer and UI/UX designer.
+# hi, i'm a software engineer & designer.
+i build software, design interfaces, and explore how things work under the hood - from programming languages and virtual machines to web, desktop, and mobile applications.
 
-Im less interested in code for the sake of code and more focused on crafting unusual digital experiences, atmospheric products, and ideas that leave a lasting impression. I enjoy experimenting with interfaces, visual language, user experience, and unconventional approaches to development.
+### languages
+c, c++, c#, java, python, javascript, typescript, php, go
 
-I spend most of my time between:
-* product design;
-* searching for inspiration;
-* endless iterations of a single idea until it finally feels right.
+### development
+- frontend: react, angular, html, css, tailwind css
+- backend: node.js, php, rest apis
+- mobile: react native, flutter
+- desktop: tauri2
+- databases: mysql, sql
+- systems: compilers, interpreters, virtual machines
 
-I believe uniqueness is not an advantage - its a necessity.
+### infrastructure & security
+- docker, kubernetes
+- ci/cd, automation
+- linux
+- application & api security
 
-## currently building
-### [ansty](https://ansty.app)
-is an anti-social app for sharing real, unfiltered moments with the people who matter. no likes. no trends. no carefully curated feeds. just life as it happens.
-### [PresenceFlow](https://github.com/k1114linux/presenceflow-application)
-is a lightweight desktop tool for creating and managing Discord Rich Presence profiles
+### design
+- ui/ux design
+- web & mobile interfaces
+- design systems
+- prototyping
 
----
+### interests
+programming language design, systems programming, compiler engineering, software architecture, cybersecurity, and cross-platform development.
